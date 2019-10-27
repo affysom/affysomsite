@@ -4,5 +4,5 @@ recaptchacontact:
     enabled: false
 ---
 
-![](banner11.jpg)Welcome
+Welcome
 Test
