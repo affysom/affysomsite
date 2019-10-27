@@ -1,11 +1,5 @@
 ---
 title: Home
-content:
-    items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
-date: '08:25 27-10-2019'
 recaptchacontact:
     enabled: false
 twittercardoptions: summary
@@ -21,5 +15,11 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 ---
 
+Welcome 
