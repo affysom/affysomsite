@@ -1,6 +1,7 @@
 ---
 title: Features
 date: '08:34 27-10-2019'
+visible: false
 recaptchacontact:
     enabled: false
 class: small
