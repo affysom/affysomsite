@@ -3,6 +3,8 @@ title: Home
 media_order: 'banner11.jpg,banner12.jpg'
 published: true
 body_classes: 'title-center title-h1h2'
+recaptchacontact:
+    enabled: false
 twittercardoptions: summary
 articleenabled: false
 musiceventenabled: false
@@ -43,4 +45,4 @@ content:
         dir: ''
 ---
 
-![](banner12.jpg)![](banner11.jpg)
+![](banner11.jpg)
