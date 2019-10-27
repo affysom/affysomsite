@@ -1,6 +1,7 @@
 ---
 title: Blog
 date: '04:46 27-10-2019'
+visible: true
 recaptchacontact:
     enabled: false
 content:
