@@ -17,9 +17,6 @@ restaurant:
     priceRange: $
 content:
     items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
 ---
 
 Welcome 
