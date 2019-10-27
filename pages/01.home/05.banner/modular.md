@@ -1,6 +1,8 @@
 ---
 title: Showcase
 media_order: 'banner11.jpg,banner12.jpg'
+content:
+    items: '@self.modular'
 date: '07:49 27-10-2019'
 recaptchacontact:
     enabled: false
