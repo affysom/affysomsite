@@ -3,7 +3,6 @@ title: 'Welcome to Affysom'
 media_order: banner12.jpg
 published: true
 date: '09:17 27-10-2019'
-visible: true
 recaptchacontact:
     enabled: false
 hero_classes: 'hero-fullscreen text-dark title- h1h2'
