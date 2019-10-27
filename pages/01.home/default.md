@@ -1,5 +1,10 @@
 ---
 title: Home
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 recaptchacontact:
     enabled: false
 twittercardoptions: summary
@@ -15,8 +20,6 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
-content:
-    items: '@self.modular'
 ---
 
 Welcome 
