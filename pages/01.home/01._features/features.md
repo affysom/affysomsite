@@ -1,7 +1,6 @@
 ---
 title: Features
 date: '09:38 27-10-2019'
-visible: true
 recaptchacontact:
     enabled: false
 class: small
@@ -18,3 +17,4 @@ features:
         url: drudgereport.com
 ---
 
+debdfgdfas
