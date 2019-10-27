@@ -5,6 +5,7 @@ date: '07:49 27-10-2019'
 recaptchacontact:
     enabled: false
 hero_classes: ' hero-fullscreen'
-hero_image: banner11.jpg
+hero_image: banner12.jpg
 ---
 
+![](banner11.jpg)![](banner12.jpg)
