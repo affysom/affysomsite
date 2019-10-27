@@ -1,5 +1,6 @@
 ---
 title: Blog
+published: true
 date: '09:12 27-10-2019'
 recaptchacontact:
     enabled: false
