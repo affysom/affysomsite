@@ -40,9 +40,6 @@ presentation:
     styles: ''
 content:
     items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
 ---
 
 ![](banner11.jpg)
