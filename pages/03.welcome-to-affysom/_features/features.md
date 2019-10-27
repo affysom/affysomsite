@@ -3,14 +3,17 @@ title: Features
 date: '08:34 27-10-2019'
 recaptchacontact:
     enabled: false
+class: small
 features:
     -
-        icon: Demo
+        icon: 'fa fa-check'
         header: Demo
         text: demo
+        url: 'http://youtube.com'
     -
-        icon: 'Demo 2'
+        icon: 'fa fa-search'
         header: 'demo 2'
         text: 'demo 2'
+        url: 'http://youtube.com'
 ---
 
