@@ -3,7 +3,7 @@ title: 'Welcome to Affysom'
 content:
     items: '@self.modular'
 date: '08:31 27-10-2019'
-body_classes: modular
+body_classes: header-transparent
 recaptchacontact:
     enabled: false
 twittercardoptions: summary
