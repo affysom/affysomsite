@@ -1,6 +1,6 @@
 ---
 title: Hero
-date: '08:12 27-10-2019'
+published: true
 recaptchacontact:
     enabled: false
 hero_image: banner12.jpg
