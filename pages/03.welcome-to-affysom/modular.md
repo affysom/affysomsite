@@ -21,3 +21,4 @@ restaurant:
     priceRange: $
 ---
 
+This is my Home page
