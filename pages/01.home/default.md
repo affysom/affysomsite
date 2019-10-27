@@ -22,4 +22,4 @@ content:
         dir: ''
 ---
 
-# Welcome to Affysom
+![](banner12.jpg)![](banner11.jpg)# Welcome to Affysom
