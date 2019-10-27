@@ -1,11 +1,6 @@
 ---
 title: Home
 media_order: 'banner11.jpg,banner12.jpg'
-content:
-    items: '@self.modular'
-    order:
-        by: ''
-        dir: ''
 published: true
 body_classes: 'title-center title-h1h2'
 recaptchacontact:
@@ -23,6 +18,11 @@ restaurantenabled: false
 restaurant:
     acceptsReservations: 'yes'
     priceRange: $
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 textsize:
     scale: ''
     modifier: '1'
