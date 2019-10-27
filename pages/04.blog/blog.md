@@ -12,6 +12,19 @@ content:
     url_taxonomy_filters: true
 feed:
     limit: 10
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 ---
 
-Lets see if this Blog Sycnhed
+My first Blog
