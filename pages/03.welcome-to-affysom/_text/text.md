@@ -7,4 +7,4 @@ recaptchacontact:
     enabled: false
 ---
 
-![](yes.jpeg)This is my sample text
+This is my sample text
