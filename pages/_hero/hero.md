@@ -6,4 +6,4 @@ recaptchacontact:
     enabled: false
 ---
 
-dfafd![](banner12.jpg)
+![](banner12.jpg)
