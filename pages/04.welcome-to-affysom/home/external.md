@@ -1,6 +1,7 @@
 ---
 title: Home
 external_url: 'https://affysom.com/home'
+visible: true
 recaptchacontact:
     enabled: false
 twittercardoptions: summary
