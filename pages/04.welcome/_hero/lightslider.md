@@ -5,4 +5,4 @@ recaptchacontact:
     enabled: false
 ---
 
-Hero
+![](banner12.jpg)![](banner11.jpg)Hero
