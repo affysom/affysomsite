@@ -1,7 +1,6 @@
 ---
 title: Contact
 published: true
-date: '06:22 27-10-2019'
 recaptchacontact:
     enabled: true
     recipient: contact@affysom.com
