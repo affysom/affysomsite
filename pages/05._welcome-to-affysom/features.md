@@ -1,6 +1,6 @@
 ---
 title: 'Welcome to Affysom'
-date: '08:20 27-10-2019'
+published: true
 recaptchacontact:
     enabled: false
 class: small
