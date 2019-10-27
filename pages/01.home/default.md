@@ -1,6 +1,11 @@
 ---
 title: Home
 media_order: 'banner11.jpg,banner12.jpg'
+content:
+    items: '@self.modular'
+    order:
+        by: ''
+        dir: ''
 published: true
 body_classes: 'title-center title-h1h2'
 recaptchacontact:
@@ -38,8 +43,6 @@ presentation:
     content: ''
     parser: ''
     styles: ''
-content:
-    items: '@self.modular'
 ---
 
 ![](banner11.jpg)
