@@ -1,6 +1,8 @@
 ---
 title: Blog
 date: '04:46 27-10-2019'
+recaptchacontact:
+    enabled: false
 content:
     items:
         - '@self.children'
